@@ -21,9 +21,9 @@ This tools also includes a link to download the Microsoft Support and Recovery A
 
 	On the **Microsoft Remote Connectivity Analyzer** page, in the left-hand navigation pane, the **Office 365** tab is displayed by default.
 
-5. On the **Office 365** page, select the box that says: **Help Identify My Issue with Exchange DNS**.
+5. On the **Office 365** page, select the box that says: **Exchange Online Custom Domains DNS Connectivity Test**.
 
-6. On the **Office 365 Exchange Domain Name Server (DNS) Connectivity Test** page, enter the following information: <br>
+6. Inside the **Exchange Online Custom Domains DNS Connectivity Test** page, enter the following information: <br>
 
 	- Enter **M365xZZZZZZ.onmicrosoft.com** (where ZZZZZZ is the tenant ID provided by your lab hosting provider) in the **Domain Name** field 
 	- Under **Service Selection**, select the **Office 365 (Default)** option (if it's not already selected)
